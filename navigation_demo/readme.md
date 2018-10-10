@@ -133,6 +133,9 @@ const styles = StyleSheet.create({
 ![](https://ws1.sinaimg.cn/large/006tNbRwly1fw37qo0kkkj30j40mggno.jpg)
 
 
+###### 效果图
+![](https://ws2.sinaimg.cn/large/006tNbRwly1fw38ugkqvsg30880gbq9b.gif)
+
 
 
 # 本项目github地址 [navigation_demo](https://github.com/zzlhr/react-native-demo/tree/master/navigation_demo)
